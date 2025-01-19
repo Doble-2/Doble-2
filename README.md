@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-🩺 Actualmente trabajando en EnviosFarma<br>🤝 Busco colaborar en proyectos interesantes<br>🌱 Estoy mejorando mi nivel de inglés y habilidades backend <br>⚡ Amo el número 2
+🤝 Busco colaborar en proyectos interesantes<br>🌱 Estoy mejorando mi nivel de inglés y habilidades backend <br>⚡ Amo el número 2
 
 
 ## 🌐 Socials:
