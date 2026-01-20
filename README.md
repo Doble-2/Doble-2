@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Architect+%26+Mobile+Lead;Specialist+in+Scalable+Flutter+%26+Next.js;Building+AI+Agents+with+Python;Arch+Linux+Power+User+(I+use+Arch+btw)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Architect+%26+Mobile+Lead;Scalable+Flutter+%26+Next.js+Systems;Building+AI+Agents+%26+IoT;Arch+Linux+Power+User+(btw)" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -25,8 +25,8 @@
     <td width="55%" valign="center">
       <h2>⚡ The Context</h2>
       <p>
-        I'm a <b>Computer Engineer</b> bridging the gap between pixel-perfect design and heavy backend logic. 
-        Currently serving as <b>Lead Full Stack Developer</b>, where I architect systems that merge IoT, AI Agents, and high-performance mobile apps.
+        I'm a <b>Software Architect</b> bridging the gap between pixel-perfect design and heavy backend logic. 
+        Currently serving as <b>Lead Full Stack Developer</b>, where I design systems that merge IoT, AI Agents, and high-performance mobile apps.
       </p>
       <p>
         I specialize in optimizing "First Contentful Paint" and obsessing over 60fps animations in Flutter.
@@ -40,7 +40,7 @@
 <span style="color: #7aa2f7">angel@archlinux</span>:<span style="color: #9ece6a">~</span>$ ./status.sh
 ---------------------------
 <span style="color: #e0af68">OS:</span>       Arch Linux (Hyprland)
-<span style="color: #e0af68">Role:</span>     Lead Engineer @ Efisence
+<span style="color: #e0af68">Role:</span>     Lead Developer @ Efisence
 <span style="color: #e0af68">Uptime:</span>   4+ Years Exp
 <span style="color: #e0af68">Focus:</span>    AI Architecture & UX
 <span style="color: #e0af68">Music:</span>    Lo-Fi / Synthwave
@@ -73,7 +73,7 @@
 
 <br/>
 
-<h2>🚀 Featured Engineering & Impact</h2>
+<h2>🚀 Featured Projects & Impact</h2>
 
 | Project | Tech & Role | Key Metrics / Impact |
 | :--- | :--- | :--- |
@@ -103,5 +103,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
   <br>
-  <i>"Thermal paste is life." 🔧</i>
+  <i>Powered by Arch Linux & strong coffee. ☕</i>
 </div>
