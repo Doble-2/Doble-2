@@ -75,12 +75,12 @@
 
 <h2>🚀 Featured Projects & Impact</h2>
 
-| Project | Tech & Role | Key Metrics / Impact |
-| :--- | :--- | :--- |
-| **🏢 Eficense Residence**<br>_Smart Property Management_ | **Lead Architect**<br>`IoT` `AI Chatbot` `Next.js` | • Automated visitor management via IoT.<br>• Integrated custom LLM for resident inquiries. |
-| **📉 Crypto Portfolio**<br>_Real-time Asset Tracker_ | **Frontend Specialist**<br>`TanStack Query` `Next.js` | • **Slashed FCP by 40%** via granular state mgmt.<br>• Integrated Stripe & CoinGecko APIs. |
-| **🎓 Studia** (In Dev)<br>_AI EdTech Ecosystem_ | **Creator**<br>`React Native` `Python RAG` | • Scrapes Moodle to auto-generate study guides.<br>• Uses RAG agents for student data context. |
-| **🌌 APOD Explorer**<br>_NASA API Consumer_ | **Mobile Dev**<br>`Flutter` `Riverpod` | • **500+ Requests** in first week.<br>• Optimized media caching & fluid animations. |
+| Project                                                  | Tech & Role                                           | Key Metrics / Impact                                                                           |
+| :------------------------------------------------------- | :---------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| **🏢 Eficense Residence**<br>_Smart Property Management_ | **Lead Architect**<br>`IoT` `AI Chatbot` `Next.js`    | • Automated visitor management via IoT.<br>• Integrated custom LLM for resident inquiries.     |
+| **📉 Crypto Portfolio**<br>_Real-time Asset Tracker_     | **Frontend Specialist**<br>`TanStack Query` `Next.js` | • **Slashed FCP by 40%** via granular state mgmt.<br>• Integrated Stripe & CoinGecko APIs.     |
+| **🎓 Studia** (In Dev)<br>_AI EdTech Ecosystem_          | **Creator**<br>`React Native` `Python RAG`            | • Scrapes Moodle to auto-generate study guides.<br>• Uses RAG agents for student data context. |
+| **🌌 APOD Explorer**<br>_NASA API Consumer_              | **Mobile Dev**<br>`Flutter` `Riverpod`                | • **500+ Requests** in first week.<br>• Optimized media caching & fluid animations.            |
 
 <br/>
 
@@ -88,8 +88,8 @@
 
 > _"I build fast, and I build to win."_
 
-* 🥈 **2nd Place @ Codicon 2024 (LexPin):** Built "Born AI" MVP in 48h using Generative AI.
-* 🏅 **Honorable Mention @ Codicon Yummy 2023:** Recognized for Mobile Development excellence.
+- 🥈 **2nd Place @ Codicon 2024 (LexPin):** Built "Born AI" MVP in 48h using Generative AI.
+- 🏅 **Honorable Mention @ Codicon Yummy 2023:** Recognized for Mobile Development excellence.
 
 <br/>
 
