@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Architect+%26+Mobile+Lead;Scalable+Flutter+%26+Next.js+Systems;Building+AI+Agents+%26+IoT;Arch+Linux+Power+User+(btw)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Lead+Software+Engineer+%26+AI+Specialist;Architecting+Scalable+Systems;Open+Source+Creator+(140%2B+Stars);Arch+Linux+Power+User+(btw)" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -25,14 +25,14 @@
     <td width="55%" valign="center">
       <h2>⚡ The Context</h2>
       <p>
-        I'm a <b>Software Architect</b> bridging the gap between pixel-perfect design and heavy backend logic. 
-        Currently serving as <b>Lead Full Stack Developer</b>, where I design systems that merge IoT, AI Agents, and high-performance mobile apps.
+        I am a <b>Lead Software Developer & AI Specialist</b> bridging the gap between pixel-perfect design and heavy backend logic. 
+        Currently architecting systems that merge IoT, LLM Agents, and high-performance cross-platform apps.
       </p>
       <p>
-        I specialize in optimizing "First Contentful Paint" and obsessing over 60fps animations in Flutter.
+        I specialize in scalable architectures, clean code, and building CLI tools that solve real problems.
       </p>
       <p>
-        🌱 <b>Currently:</b> Integrating RAG Agents into EdTech platforms.
+        🌱 <b>Currently:</b> Scaling Open Source projects and integrating RAG workflows.
       </p>
     </td>
     <td width="45%">
@@ -40,11 +40,11 @@
 <span style="color: #7aa2f7">angel@archlinux</span>:<span style="color: #9ece6a">~</span>$ ./status.sh
 ---------------------------
 <span style="color: #e0af68">OS:</span>       Arch Linux (Hyprland)
-<span style="color: #e0af68">Role:</span>     Lead Developer @ Efisence
-<span style="color: #e0af68">Uptime:</span>   4+ Years Exp
-<span style="color: #e0af68">Focus:</span>    AI Architecture & UX
-<span style="color: #e0af68">Music:</span>    Lo-Fi / Synthwave
-<span style="color: #bb9af7">TODO:</span>     [ "Deploy Studia", "Fix Grub" ]
+<span style="color: #e0af68">Role:</span>     Lead Engineer & AI Spec.
+<span style="color: #e0af68">Impact:</span>   160+ Open Source Stars
+<span style="color: #e0af68">Focus:</span>    AI Architecture & Systems
+<span style="color: #e0af68">Music:</span>    Pxndx / Synthwave
+<span style="color: #bb9af7">TODO:</span>     [ "Scale OSINT-D2", "Fix Grub" ]
 </pre>
     </td>
   </tr>
@@ -77,10 +77,11 @@
 
 | Project                                                  | Tech & Role                                           | Key Metrics / Impact                                                                           |
 | :------------------------------------------------------- | :---------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| **🕵️‍♂️ [OSINT-D2](https://github.com/Doble-2/osint-d2)**<br>_Identity Intelligence CLI_ | **Creator**<br>`Python` `LLMs` `AsyncIO`              | • 🌟 **140+ GitHub Stars & 20+ Forks**.<br>• Automated AI cognitive profiling & PDF dossiers.  |
+| **🌄 [Scenery](https://github.com/Doble-2/scenery-wallpapers)**<br>_CLI Wallpaper Engine_      | **Creator**<br>`Python` `Typer` `Rich`                | • 🌟 **25+ GitHub Stars**.<br>• Smart indexing & color extraction for Linux power users.       |
 | **🏢 Eficense Residence**<br>_Smart Property Management_ | **Lead Architect**<br>`IoT` `AI Chatbot` `Next.js`    | • Automated visitor management via IoT.<br>• Integrated custom LLM for resident inquiries.     |
 | **📉 Crypto Portfolio**<br>_Real-time Asset Tracker_     | **Frontend Specialist**<br>`TanStack Query` `Next.js` | • **Slashed FCP by 40%** via granular state mgmt.<br>• Integrated Stripe & CoinGecko APIs.     |
-| **🎓 Studia** (In Dev)<br>_AI EdTech Ecosystem_          | **Creator**<br>`React Native` `Python RAG`            | • Scrapes Moodle to auto-generate study guides.<br>• Uses RAG agents for student data context. |
-| **🌌 APOD Explorer**<br>_NASA API Consumer_              | **Mobile Dev**<br>`Flutter` `Riverpod`                | • **500+ Requests** in first week.<br>• Optimized media caching & fluid animations.            |
+| **🎓 Studia** (In Dev)<br>_AI EdTech Ecosystem_          | **Lead**<br>`React Native` `Python RAG`               | • Scrapes Moodle to auto-generate study guides.<br>• Uses RAG agents for student data context. |
 
 <br/>
 
